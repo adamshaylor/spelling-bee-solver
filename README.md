@@ -1,4 +1,4 @@
-# webgl-wireframes
+# spelling-bee-solver
 
 This is a solver for the New York Times’ [Spelling Bee puzzle](https://www.nytimes.com/puzzles/spelling-bee).
 
