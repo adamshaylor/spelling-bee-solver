@@ -85,7 +85,7 @@ The output should look like this:
 
 ## Module
 
-The CLI is powered by a separate function, the usage of which is:
+The JavaScript module can be used directly:
 
 ```javascript
 import solve from 'spelling-bee-solver';
